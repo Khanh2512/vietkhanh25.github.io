@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tqm.youtube</string>
+				<string>com.google.ios.youtube</string>
 				<key>bundle-version</key>
 				<string>15.25.5</string>
 				<key>kind</key>
